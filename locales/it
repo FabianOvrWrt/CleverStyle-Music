@@ -1,0 +1,7 @@
+library-empty-want-to-rescan = La lista dei brani musicali è vuota. Vuoi aggiornare l'elenco?
+rescan-library = Scansione dell'elenco
+playlist = Playlist
+searching-for-music = Ricerca di musica...
+files-found = file trovati
+library-rescanned-playlist-updated = Elenco riscansionato, playlist aggiornate
+cant-play-this-file = Questo file non si può aprire: {{error}}
